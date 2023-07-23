@@ -55,6 +55,9 @@
             </Accordion.Item>
         {/each}
     </Accordion>
+    <div class="absolute bottom-0">
+        <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    </div>
 </main>
 
 <style>
